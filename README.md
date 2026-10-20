@@ -40,7 +40,7 @@ const khushi = {
   ],
   community: "Social Chair, DSI Student Council 🎉",
   lookingFor: "Full-time roles in analytics, AI, consulting, and forward deployed engineering",
-  funFacts: ["bakes 🧁", "event planner at heart", "Bridgerton loyalist 👑"]
+  funFacts: ["cricket 🏏", "bakes 🧁", "event planner at heart", "Bridgerton loyalist 👑"]
 };
 ```
 
@@ -77,7 +77,7 @@ I spent three years logging risks for a living, so here is mine, with mitigation
 | Messy data | Certain | Clean it, document it, never trust it blindly |
 | Black-box models | High | Explain every prediction before it ships |
 | Scope creep | Medium | Write the problem statement first |
-| Too many tabs open | Certain | Lavender tea and one task at a time 🍵 |
+| Too many tabs open | Certain | Close them. One task at a time. |
 
 ---
 
@@ -127,9 +127,11 @@ End-to-end pipeline on FEMA flood insurance data (OpenFEMA to Delta to a SQL war
 ### 💌 Let's connect
 
 <a href="https://ka1899.github.io/"><img src="https://img.shields.io/badge/Portfolio-B79CED?style=for-the-badge" alt="Portfolio" /></a>
+<a href="https://ka1899.github.io/resume.pdf"><img src="https://img.shields.io/badge/Resume-C8B6FF?style=for-the-badge" alt="Resume" /></a>
 <a href="https://www.linkedin.com/in/khushi-advani"><img src="https://img.shields.io/badge/LinkedIn-9D7FEA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:ka3090@columbia.edu"><img src="https://img.shields.io/badge/ka3090%40columbia.edu-8B6FD6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<i>Thanks for stopping by. May your models converge and your tea stay warm. 💜</i>
+<i>Thanks for stopping by. May your models converge and your cover drives find the gap. 🏏💜</i>
 
 </div>
 
